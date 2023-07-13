@@ -3,9 +3,7 @@
 
 [![Stanislaw's GitHub stats](https://github-readme-stats.vercel.app/api?username=StanislawHornaGitHub&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
 -->
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StanislawHornaGitHub&langs_count=8)
+![Top Langs](https://github-readme-stats-nine-ivory-60.vercel.app//api/top-langs/?username=StanislawHornaGitHub&langs_count=8&custom_title=Top%20Used%20%28incl.%20private%20repos%29)
 <!--
 **StanislawHornaGitHub/StanislawHornaGitHub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
