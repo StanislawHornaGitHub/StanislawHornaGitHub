@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on Universal **PowerShell GUI** to run any script
 - 🌱 I’m currently learning **Bash** and **Swift**
 - 🤔 I’m looking for help with some good tutorials for **Swift code development**
-- 💬 Ask me about **PowerShell Automations** or LAN infrastructures
+- 💬 Ask me about **PowerShell Automations** or **LAN infrastructures**
 
 ## Work experience
 I am **certified ICT Technician**, who loves **PowerShell scripts** development.
