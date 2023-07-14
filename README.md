@@ -1,5 +1,11 @@
-![image](/Banner.png)
+![image](/Pictures/Banner.png)
 # Hi there, I'm Stanislaw 👋
+<p float="left">
+  <img src="/Pictures/AZ-900 Badge.png" width="100" />
+  <img src="/Pictures/CCNA Routing and Switching Badge.png" width="100" />
+  <img src="/Pictures/Nexthink Product Partner Certified.png" width="100" /> 
+</p>
+
 - 🔭 I’m currently working on Universal **PowerShell GUI** to run any script
 - 🌱 I’m currently learning **Bash** and **Swift**
 - 🤔 I’m looking for help with some good tutorials for **Swift code development**
