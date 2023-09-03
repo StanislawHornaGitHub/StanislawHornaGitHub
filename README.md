@@ -6,7 +6,7 @@
   <img src="/Pictures/Nexthink Product Partner Certified.png" width="100" /> 
 </p>
 
-- 🔭 I’m currently working on Universal [**Monitor Windows Domain Devices**](https://github.com/StanislawHornaGitHub/MonitorWindowsDomainDevices) project
+- 🔭 I’m currently working on [**Monitor Windows Domain Devices**](https://github.com/StanislawHornaGitHub/MonitorWindowsDomainDevices) project
 - 🌱 I’m currently learning [**Bash**](https://github.com/StanislawHornaGitHub/Bash_Projects) and [**Swift**](https://github.com/StanislawHornaGitHub/Swift_Landmarks_Introduction)
 - 🤔 I’m looking for help with some good tutorials for **Swift code development**
 - 💬 Ask me about **PowerShell Automations** or **LAN infrastructures**
