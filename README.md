@@ -33,6 +33,6 @@ I used to have a git only as a version control for PowerShell scripts, but I wou
 
 Unfortunatelly **not every repository can be public** (work & studies stuff), but I though that it would be a good idea to push almost all my programs to have the backup of them and be able to generate the statistics what I was doing since I have started my IT studies.
 
-![Top Langs](https://github-readme-stats-nine-ivory-60.vercel.app//api/top-langs/?username=StanislawHornaGitHub&langs_count=8&custom_title=Top%20Used%20%28incl.%20private%20repos%29)
+![Top Langs](https://github-readme-stats-nine-ivory-60.vercel.app//api/top-langs/?username=StanislawHornaGitHub&hide=css&langs_count=8&custom_title=Top%20Used%20%28incl.%20private%20repos%29)
 
 
