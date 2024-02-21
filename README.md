@@ -43,7 +43,7 @@ To supercharge my automation skills on macOS and Linux. 🐧
 It’s like a Swiss Army knife for handling internal services. I’ve tinkered with it, 
 envisioning seamless re-implementation or migration to different host machines. 🖥 💻
 
-- **Crafting My Solutions:** 🎨 Unlike off-the-shelf solutions, I prefer crafting my own tools. 
+- **Crafting My Solutions:** 🎨 Unlike off-the-shelf solutions, I prefer [crafting my own tools](https://github.com/StanislawHornaGitHub/MonitorWindowsDomainDevices). 
 Flexibility is key—I can fine-tune them to fit my exact needs. No compromises! 🫡
 
 <picture>
