@@ -33,7 +33,7 @@ My brain is a bustling marketplace of concepts, and I’m constantly exploring n
 It’s my base scripting language, and I wield it with confidence. 😉
 
 - **Python Pathfinder:** 🌟 Python is my trusty sidekick. Armed with Python scripts, 
-I calculate investment refunds, [dissect investment funds](https://github.com/StanislawHornaGitHub/Investment_fund_Analyzer), and make informed choices. 
+I calculate [investment refunds](https://github.com/StanislawHornaGitHub/Investment_fund_quotations), [dissect investment funds](https://github.com/StanislawHornaGitHub/Investment_fund_Analyzer), and make informed choices. 
 Oh, and that bar chart you see below? Yep, [Python magic!](https://github.com/StanislawHornaGitHub/GitHub_Statistics) 🐍
 
 - **Bash Apprentice:** 👨‍🎓 Recently, I embarked on a journey to master Bash. Why? 
