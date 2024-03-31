@@ -12,7 +12,8 @@
   <img src="/Pictures/Logos/Powershell_Windows_logo.png" width="45" />
   <img src="/Pictures/Logos/Powershell_Core_logo.png" width="45" />
   <img src="/Pictures/Logos/Python_logo.png" width="45" /> 
-  <img src="/Pictures/Logos/Bash_logo.png" width="45" /> 
+  <img src="/Pictures/Logos/Bash_logo.png" width="45" />
+  <img src="/Pictures/Logos/PostgreSQL_logo.png" width="45" />  
   <img src="/Pictures/Logos/SQL_logo.png" width="45" /> 
   <img src="/Pictures/Logos/Docker_logo.png" width="45" /> 
   <img src="/Pictures/Logos/Jenkins_logo.png" width="45" /> 
